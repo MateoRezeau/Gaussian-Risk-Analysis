@@ -97,16 +97,3 @@ gaussian-risk-calculator/
 └── requirements.txt # Python dependencies
 ```
 
----
-
-## About
-
-Developed by **Mateo Veltri** as part of the [Veltri Capital](https://github.com/) quantitative research toolkit.
-
-This calculator bridges the gap between raw market data and actionable risk metrics, providing a foundational approach to assessing tail risk in portfolio analysis.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).

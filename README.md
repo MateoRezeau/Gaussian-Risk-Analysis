@@ -1,4 +1,4 @@
-# 📉 Gaussian Risk Calculator
+# 📉 Risk Analysis Tool
 
 A professional, lightweight Python toolkit for calculating **parametric Value at Risk (VaR)** and **Expected Shortfall (ES)** to facilitate rapid portfolio risk assessment.
 

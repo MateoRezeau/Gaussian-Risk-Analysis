@@ -85,15 +85,3 @@ Where $z_{\alpha}$ is the quantile of the standard normal distribution at confid
 | **Volatility Scaling** | Applies the square-root-of-time rule, which assumes i.i.d. returns. Not valid under volatility clustering or autocorrelation. |
 | **Static Parameters** | Mean and volatility are treated as constant over the horizon. |
 
----
-
-## Project Structure
-
-```
-gaussian-risk-calculator/
-│
-├── main.py          # Entry point — CLI prompts and output
-├── README.md        # Project documentation
-└── requirements.txt # Python dependencies
-```
-
